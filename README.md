@@ -6,14 +6,14 @@
 * run php spark migrate --all
 
 ## Database Sample
-  supportticket.sql is in app\Database\supportticket.sql
-  Import supportticket.sql to your database
+supportticket.sql is in app\Database\supportticket.sql
+Import supportticket.sql to your database
 
-## Sample User:
-## Admin:
+Sample User:
+ Admin:
   email: admin@admin.com
   password: number1test
-## User:
+User:
   email: testuser@user.com
   password: number1user
   
