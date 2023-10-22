@@ -10,12 +10,12 @@ supportticket.sql is in app\Database\supportticket.sql
 Import supportticket.sql to your database
 
 Sample User:
- Admin:
-  email: admin@admin.com
-  password: number1test
-User:
-  email: testuser@user.com
-  password: number1user
+* Admin:
+* email: admin@admin.com
+* password: number1test
+* User:
+* email: testuser@user.com
+* password: number1user
   
 ## What is CodeIgniter?
 
